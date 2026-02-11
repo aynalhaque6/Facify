@@ -1,4 +1,4 @@
-# 🔐 Face Verification App
+# 🔐 Face Verification
 ### Facify Face Liveness SDK Integration (Android)
 
 ---
@@ -111,16 +111,3 @@ This project uses:
 - CameraX & ML Kit keep rules
 
 ---
-
-## 👨‍💻 Author
-
-**Md Aynal Haque**  
-Android Developer  
-Bangladesh 🇧🇩
-
----
-
-## 📄 License
-
-This project demonstrates integration of a proprietary Face Liveness SDK.  
-Unauthorized redistribution is prohibited.
