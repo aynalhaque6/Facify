@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
 
         if (requestCode == 1001 && resultCode == RESULT_OK && data != null) {
             String imagePath = data.getStringExtra("result_image_path");
-            // এখন এই ইমেজ পাথ দিয়ে আপনি ছবিটি শো করতে পারেন বা সার্ভারে পাঠাতে পারেন
             Toast.makeText(this, "image: " + imagePath, Toast.LENGTH_SHORT).show();
             Log.d("Facify", "Captured Image Path: " + imagePath);
         }
